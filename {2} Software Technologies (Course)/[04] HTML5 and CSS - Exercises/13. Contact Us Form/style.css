@@ -1,0 +1,31 @@
+form {
+  background-color: #eee;
+  width: 280px;
+  height: 190px;
+}
+
+label {
+  display: block;
+  margin: 5px 10px;
+  padding-top: 10px;
+}
+
+span {
+  display: inline-block;
+  width: 75px;
+}
+
+input[type="text"],
+input[type="email"] {
+  width: 155px;
+}
+
+select {
+  width: 160px;
+}
+
+input[type="submit"] {
+  display: block;
+  margin: 10px 89px;
+  padding: 5px 10px;
+}

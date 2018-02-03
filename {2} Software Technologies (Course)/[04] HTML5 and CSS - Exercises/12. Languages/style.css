@@ -1,0 +1,10 @@
+body {
+  background-color: #eee;
+}
+span {
+  background-color: #ccc;
+  border-radius: 5px;
+  padding: 3px 10px;
+  font-size: 18px;
+  border: 1px solid #bbb;
+}

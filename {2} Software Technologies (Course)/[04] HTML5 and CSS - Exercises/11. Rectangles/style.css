@@ -1,0 +1,26 @@
+div {
+  width: 150px;
+  text-align: center;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+div.red {
+  width: 200px;
+}
+
+div.blue {
+  width: 250px;
+}
+
+.green {
+  border: 2px solid green;
+}
+
+.red {
+  border: 2px dashed red;
+}
+
+.blue {
+  border: 3px dotted blue;
+}
